@@ -1,0 +1,8 @@
+.navegacion {
+  position: relative;
+}
+
+li {
+  display: inline;
+  margin-right: 150px;
+}
